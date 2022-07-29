@@ -1,0 +1,31 @@
+body{
+    background-color: #f2fff2;
+}
+
+.home-x{
+    width: 550px;
+    display: flex;
+    margin: auto;
+    background-color: #0eba4c;
+    margin: auto;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    
+}
+
+.home{
+    width: 20%;
+    width: 70px;
+    display: block;
+    color:white;
+    text-decoration: none;
+    text-align: center;
+    padding: 19px 30px;
+    border-radius: 15px;
+    transition: 0.2;
+
+}
+
+.home:hover{
+background-color: #43be9c;
+}
